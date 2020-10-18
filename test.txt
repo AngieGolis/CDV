@@ -1,3 +1,4 @@
 Pierwszy wierszyk i wiersz
 Drugi wiersz
 Trzeci wiersz
+Czwarty wiersz otwarty
